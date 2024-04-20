@@ -1,6 +1,8 @@
 # LinkedIn Font Editor
 
-![Preview](preview.png)
+<p align="center">
+  <img src="preview-png.png" alt="Preview">
+</p>
 <br>
 <br>
 
@@ -16,17 +18,22 @@ Made by [maxontech](https://twitter.com/max_on_tech)
 
 ## Table of contents
 
-- [Features](#features)
-- [Opening the Extension](#opening-the-extension)
-- [List of commands](#list-of-commands)
-- [Installing locally on Chrome](#installing-on-chrome)
-- [Libraries](#libraries-used)
-- [Contact](#contact)
+- [LinkedIn Font Editor](#linkedin-font-editor)
+  - [Table of contents](#table-of-contents)
+  - [Features](#features)
+  - [Opening the Extension](#opening-the-extension)
+  - [Installing locally on Chrome](#installing-locally-on-chrome)
+  - [Libraries](#libraries)
+  - [Contact](#contact)
 
 ## Features
 
 When you make a new LinkedIn post, you'll see three icons (**B**, *I*, <ins>U</ins>) at the top of the text field.
 Simply highlight the text you want to chage and click on the corresponding edit button.
+
+<p align="center">
+  <img src="preview-gif.gif" alt="Preview">
+</p>
 
 ## Opening the Extension
 
